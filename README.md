@@ -4,7 +4,7 @@
 This repo contains the landing page for **Colmar Academy**, a fictional school built from wireframes as part of Codecademy's "Build a Website with HTML, CSS, and GitHub Pages" path. The goal is to implement the structure defined in the wireframes and make design decisions for color, typography, and responsiveness.
 
 ## 🌐 Live Demo
-[View the live version here](https://yourusername.github.io/ColmarAcademy/)  
+[View the live version here]( https://jagtap-pooja77.github.io/Capstone-Project/)  
 
 ## 🧰 Technologies Used
 - HTML5  
